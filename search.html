@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>search page</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div>search page</div>
+        <form action ="SearchSlt" method="post"><br>
+            The number from 1-6 represents the following<br>
+            (1.brand, 2.name, 3.sugar, 4.fiber, 5.expiration, 6.price) <br>
+            Enter a number you want to search:<br>
+            <input type="text" name="choice"><br>
+            Enter the search details such as <br>
+            which brand, or how many grams of sugar:<br>
+            <input type="text" name="detail"><br>
+            Enter a number from 1-3 represents following<br> 
+            1.equal, 2.equal greater than or 3.equal less than <br>
+            if you choose sugar, fiber or price otherwise you can leave it empty:<br>
+            <input type="text" name="range"><br>
+            <button>search</button>
+        </form>
+    </body>
+</html>

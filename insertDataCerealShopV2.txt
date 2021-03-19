@@ -1,0 +1,125 @@
+Here is the initial data for your catalog.
+This information is totally made up.
+
+
+insert into cereal values(
+0,
+"post",
+"oatmeal",
+7,
+5,
+"2018-03-03",
+3.99,
+"Healthy low sugar..",
+5);
+
+
+insert into cereal values(
+0,
+"post",
+"raisins and more",
+14,
+8,
+"2019-04-04",
+3.55,
+"Healthy with vitamin C..",
+20);
+
+insert into cereal values(
+0,
+"post",
+"wheat and raisin",
+7,
+8,
+"2018-06-06",
+4.19,
+"Fiber stuff..",
+10);
+
+
+insert into cereal values(
+0,
+"post",
+"almonds and wheat",
+4,
+5,
+"2020-07-07",
+5.33,
+"vitamin B, D..",
+2);
+
+
+insert into cereal values(
+0,
+"post",
+"oats with vitamins",
+15,
+12,
+"2022-01-01",
+4.44,
+"oats and C and B",
+3);
+
+-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+insert into cereal values(
+0,
+"quaker",
+"oatmeal and grapes",
+12,
+5,
+"2019-03-03",
+2.88,
+"Organic sugar..",
+5);
+
+
+insert into cereal values(
+0,
+"quaker",
+"raisins and clusters",
+19,
+2,
+"2019-08-08",
+3.33,
+"With natural raisin",
+20);
+
+insert into cereal values(
+0,
+"quaker",
+"wheat with oats",
+7,
+8,
+"2021-06-06",
+4.77,
+"Direct from the field..",
+6);
+
+
+insert into cereal values(
+0,
+"quaker",
+"wheat and barley",
+4,
+5,
+"2020-07-07",
+5.33,
+"no GMO",
+8);
+
+
+insert into cereal values(
+0,
+"quaker",
+"barley with pickles",
+2,
+12,
+"2025-05-05",
+8.95,
+"clusters and natural",
+3);
+
+
+
+
